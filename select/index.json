@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "One Life",
+  "base_artist": "松永涼 (CV: 千菅春香)",
+  "createdAt": "2026-03-01T03:57:42.640283Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "One Life",
+      "artist": "Curren$y",
+      "has_synced": true,
+      "path": "select/01_One_Life_Curren$y.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "One Life Stand",
+      "artist": "Hot Chip",
+      "has_synced": false,
+      "path": "select/02_One_Life_Stand_Hot_Chip.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One Life",
+      "artist": "Gamma Ray",
+      "has_synced": false,
+      "path": "select/03_One_Life_Gamma_Ray.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One Life (Japan bonus)",
+      "artist": "Gamma Ray",
+      "has_synced": true,
+      "path": "select/04_One_Life_(Japan_bonus)_Gamma_Ray.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One Life",
+      "artist": "Queensrÿche",
+      "has_synced": false,
+      "path": "select/05_One_Life_Queensrÿche.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "One Life",
+      "artist": "Queensryche",
+      "has_synced": false,
+      "path": "select/06_One_Life_Queensryche.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "One Life",
+      "artist": "Justin Bieber",
+      "has_synced": true,
+      "path": "select/07_One_Life_Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "One Life Stand (Carl Craig Remix)",
+      "artist": "Hot Chip",
+      "has_synced": false,
+      "path": "select/08_One_Life_Stand_(Carl_Craig_Remix)_Hot_Chip.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "One Life (Single Version)",
+      "artist": "No Angels",
+      "has_synced": false,
+      "path": "select/09_One_Life_(Single_Version)_No_Angels.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "One Life",
+      "artist": "No Angels",
+      "has_synced": false,
+      "path": "select/10_One_Life_No_Angels.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "One Life",
+      "artist": "James Morrison",
+      "has_synced": true,
+      "path": "select/11_One_Life_James_Morrison.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "12 - One Life",
+      "artist": "James Morrison",
+      "has_synced": true,
+      "path": "select/12_12_-_One_Life_James_Morrison.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "One Life",
+      "artist": "Alter Bridge",
+      "has_synced": true,
+      "path": "select/13_One_Life_Alter_Bridge.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "One Life",
+      "artist": "Ed Sheeran",
+      "has_synced": true,
+      "path": "select/14_One_Life_Ed_Sheeran.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Just One Life",
+      "artist": "Brian May",
+      "has_synced": true,
+      "path": "select/15_Just_One_Life_Brian_May.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Just One Life (Guitar Version)",
+      "artist": "Brian May",
+      "has_synced": true,
+      "path": "select/16_Just_One_Life_(Guitar_Version)_Brian_May.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "One Life to Live",
+      "artist": "Lou Rawls",
+      "has_synced": false,
+      "path": "select/17_One_Life_to_Live_Lou_Rawls.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "One Life to Live",
+      "artist": "The Manhattans",
+      "has_synced": true,
+      "path": "select/18_One_Life_to_Live_The_Manhattans.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "One Life",
+      "artist": "John Legend",
+      "has_synced": true,
+      "path": "select/19_One_Life_John_Legend.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "One Life",
+      "artist": "松永涼 (千菅春香)",
+      "has_synced": false,
+      "path": "select/pl_01_One_Life_松永涼_(千菅春香).txt"
+    }
+  ]
+}
